@@ -1,0 +1,16 @@
+[
+  {
+    "id":0,
+    "name": "Product 1",
+    "age": 25,
+    "email": "product1@example.com",
+    "active": true
+  },
+  {
+    "id":1,
+    "name": "Product 2",
+    "age": 30,
+    "email": "product2@example.com",
+    "active": false
+  }
+]
